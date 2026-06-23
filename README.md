@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Web em formação | Estudante de Ciência da Computação
 
-Construindo interfaces, landing pages e sistemas web com foco em organização, usabilidade e aplicação real.
+Construindo interfaces, landing pages e sistemas web com foco em usabilidade, organização, responsividade e aplicação real.
 
 </div>
 
@@ -12,11 +12,13 @@ Construindo interfaces, landing pages e sistemas web com foco em organização, 
 
 ## Sobre mim
 
-Sou estudante de Ciência da Computação e desenvolvedor web em formação.
+Sou estudante de Ciência da Computação e desenvolvedor web em formação, com foco na criação de projetos práticos, funcionais e bem estruturados.
 
-Atualmente desenvolvo projetos práticos com HTML, CSS, JavaScript, PHP e MySQL, com foco em sites institucionais, landing pages, dashboards administrativos e sistemas simples para pequenos negócios.
+Atualmente desenvolvo soluções utilizando HTML, CSS, JavaScript, PHP, MySQL e Python, aplicando esses conhecimentos em sites institucionais, landing pages, dashboards administrativos e sistemas web para pequenos negócios.
 
-Meu objetivo é evoluir como desenvolvedor full stack, criando soluções funcionais, bem estruturadas e com boa experiência para o usuário.
+Tenho interesse em desenvolvimento full stack, boas práticas de código, organização de projetos e criação de interfaces que entreguem uma boa experiência para o usuário.
+
+Também possuo inglês intermediário, com capacidade para ler e compreender documentações, conteúdos técnicos e materiais de estudo da área de tecnologia.
 
 ---
 
@@ -29,6 +31,7 @@ Meu objetivo é evoluir como desenvolvedor full stack, criando soluções funcio
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
@@ -62,8 +65,10 @@ Atualmente estou estudando e praticando:
 - Desenvolvimento front-end responsivo
 - JavaScript para interfaces dinâmicas
 - PHP e MySQL para sistemas web
+- Python para lógica, automação e projetos acadêmicos
 - Organização de projetos no GitHub
 - Boas práticas de código e documentação
+- Inglês técnico para leitura de documentações e conteúdos da área
 
 ---
 
