@@ -2,9 +2,9 @@
 
 # Gabriel de Souza Campos
 
-### Estudante de Ciência da Computação | Desenvolvedor Web em formação
+### Desenvolvedor Web em formação | Estudante de Ciência da Computação
 
-Construindo projetos web com foco em utilidade real, design limpo e evolução constante.
+Construindo interfaces, landing pages e sistemas web com foco em organização, usabilidade e aplicação real.
 
 </div>
 
@@ -12,21 +12,23 @@ Construindo projetos web com foco em utilidade real, design limpo e evolução c
 
 ## Sobre mim
 
-Sou estudante de Ciência da Computação e estou desenvolvendo projetos práticos voltados para web, automação de processos, interfaces modernas e soluções para pequenos negócios.
+Sou estudante de Ciência da Computação e desenvolvedor web em formação.
 
-Atualmente estou focado em evoluir minhas habilidades em desenvolvimento front-end, lógica de programação, versionamento com Git/GitHub e criação de sistemas simples, funcionais e bem organizados.
+Atualmente desenvolvo projetos práticos com HTML, CSS, JavaScript, PHP e MySQL, com foco em sites institucionais, landing pages, dashboards administrativos e sistemas simples para pequenos negócios.
+
+Meu objetivo é evoluir como desenvolvedor full stack, criando soluções funcionais, bem estruturadas e com boa experiência para o usuário.
 
 ---
 
-## Tecnologias que estou estudando e utilizando
+## Tecnologias
 
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
@@ -37,24 +39,31 @@ Atualmente estou focado em evoluir minhas habilidades em desenvolvimento front-e
 
 ## Projetos em destaque
 
-### Landing Page para Criador de Conteúdo
-Página desenvolvida para apresentar serviços de edição de vídeo, exibir portfólio e direcionar clientes para contato.
+### DS Special Eletric
 
-**Tecnologias:** HTML, CSS, JavaScript
-
----
-
-### Sistema de Orçamentos e Agendamentos
-Sistema web para cadastro, controle e visualização de orçamentos, agendamentos e feedbacks.
+Site institucional com painel administrativo para gerenciamento de orçamentos, agendamentos e feedbacks.
 
 **Tecnologias:** HTML, CSS, JavaScript, PHP, MySQL
 
 ---
 
-### Site Institucional para Empresa de Serviços
-Projeto voltado para apresentação profissional de uma empresa, com seções de serviços, trabalhos realizados e contato.
+### Portfólio para Editor de Vídeo
+
+Landing page responsiva para apresentação de serviços, exibição de vídeos e direcionamento de clientes para contato via WhatsApp.
 
 **Tecnologias:** HTML, CSS, JavaScript
+
+---
+
+## Em evolução
+
+Atualmente estou estudando e praticando:
+
+- Desenvolvimento front-end responsivo
+- JavaScript para interfaces dinâmicas
+- PHP e MySQL para sistemas web
+- Organização de projetos no GitHub
+- Boas práticas de código e documentação
 
 ---
 
@@ -62,9 +71,9 @@ Projeto voltado para apresentação profissional de uma empresa, com seções de
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielscampos-dev&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscampos-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -74,8 +83,8 @@ Projeto voltado para apresentação profissional de uma empresa, com seções de
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE-SEU-LINKEDIN-AQUI)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](COLOQUE-SEU-INSTAGRAM-AQUI)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](COLOQUE-SEU-WHATSAPP-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-campos-088693304/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gcampos.011/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511946308182)
 
 </div>
